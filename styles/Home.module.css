@@ -108,6 +108,19 @@
   margin-left: 0.5rem;
 }
 
+.inputBox {
+  width: 200px;
+  height: 30px;
+  margin: 5px;
+}
+
+.button {
+  width: 200px;
+  height: 30px;
+  margin: 5px;
+  cursor: pointer;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
